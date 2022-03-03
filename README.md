@@ -1,1 +1,2 @@
-# react-movie-app-azizbek-yunusov.netlify.app
+# hosting netlify
+react-movie-app-azizbek-yunusov.netlify.app
